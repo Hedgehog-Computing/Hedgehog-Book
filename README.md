@@ -1,2 +1,2 @@
-# Setup
+# Hedgehog Lab Tutorial
 
