@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Setup](README.md)
+* [Overview](README.md)
+* [Hedgehog Lab in 1 minute](hedgehog-lab-in-1-minute.md)
+* [Setup](setup.md)
 * [Tutorials](tutorials/README.md)
   * [Share code via URL](tutorials/share-code-via-url.md)
   * [Data Visualization](tutorials/data-visualization.md)
