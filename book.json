@@ -1,0 +1,3 @@
+{ "title": "My Awesome Book",
+  "plugins": ["responsive-iframes", "wide-page"] 
+}
