@@ -2,11 +2,11 @@
 
 ## Basic Matrix Operations
 
-There are a few basic operations that's are most necessary in linear algebra. 
+There are a few basic operations in linear algebra.
 
 ### Matrix addition $$A+B$$
 
-For an $$m \times n$$ matrix $$A$$ and an $$m \times n$$ matrix $$B$$, the matrix addition $$C=AB$$ is defined as an $$m \times n$$ matrix such that
+For an $$m \times n$$ matrix $$A$$ and an $$m \times n$$ matrix $$B$$, the matrix addition $$C=A+B$$ is defined as an $$m \times n$$ matrix such that
 
 $$
 C_{i,j} = A_{i,j}+B_{i,j}
@@ -52,9 +52,9 @@ $$
 
 where I is an $$n \times n$$ identity matrix.
 
-### Matrix division $$X = A/B$$
+### Matrix division $$A/B$$
 
-There is no mathmatical definition of matrix division. But for linear algebra, people usually define right-matrix division in this way: for an $$n \times n$$ square matrix $$A$$ and another $$n \times n$$ square matrix $$B$$, if matrix $$B$$ is invertible, matrix division $$X = A/B$$ is usually calculated as:
+There is no mathmatical definition of matrix division. But for numeric computing, people usually define right-matrix division in this way: for an $$n \times n$$ square matrix $$A$$ and another $$n \times n$$ square matrix $$B$$, if matrix $$B$$ is invertible, matrix division $$X = A/B$$ is usually calculated as:
 
 $$
 X=AB^{-1}
